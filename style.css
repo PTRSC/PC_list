@@ -24,8 +24,12 @@ body {
 	background-color: black;
 }
 
-a {
+a0 {
 	color: red;
+}
+
+a1 {
+	color: white;
 }
 
 #footer {
