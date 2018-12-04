@@ -24,7 +24,7 @@ body {
 }
 
 a {
-	color: green;
+	color: white;
 }
 
 .indent {
@@ -46,7 +46,7 @@ h1 {
 	font-variant: normal;
 	font-weight: bold;
 	line-height: 26.4px;
-	color: lime;
+	color: white;
 }
 h2 {
 	font-family: 'Droid Sans Mono';
@@ -55,7 +55,7 @@ h2 {
 	font-variant: normal;
 	font-weight: bold;
 	line-height: 15.4px;
-	color: lime;
+	color: white;
 }
 h3 {
 	font-family: 'Droid Sans Mono';
@@ -64,7 +64,7 @@ h3 {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 20px;
-	color: lime;
+	color: white;
 }
 p {
 	font-family: 'Droid Sans Mono';
@@ -74,7 +74,7 @@ p {
 	font-weight: 400;
 	line-height: 20px;
 	padding-left: 10px;
-	color: lime;
+	color: white;
 }
 blockquote {
 	font-family: 'Droid Sans Mono';
@@ -84,7 +84,7 @@ blockquote {
 	font-weight: 400;
 	line-height: 25px;
 	padding-left: 10px;
-	color: lime;
+	color: white;
 }
 pre {
 	font-family: 'Droid Sans Mono';
@@ -93,5 +93,5 @@ pre {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 18.5714px;
-	color: lime;
+	color: white;
 }
